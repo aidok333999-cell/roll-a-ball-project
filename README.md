@@ -27,13 +27,13 @@ Tutorial Scope Completed
 We completed all major tutorials of the Roll-a-Ball Unity project.
 
 Implemented systems:
-- Player movement and physics-based controls
-- Camera follow system
-- Collectible pickup system
-- Score tracking
-- Enemy interaction and lose condition
-- Win and lose screens
-- UI systems
+ Player movement and physics-based controls
+ Camera follow system
+ Collectible pickup system
+ Score tracking
+ Enemy interaction and lose condition
+ Win and lose screens
+ UI systems
 
 Custom Features
 
@@ -46,17 +46,17 @@ The following additional features were implemented beyond the original tutorial:
 
 Project Features Implemented
 
-- Player movement using Rigidbody physics
-- Camera follow system using offset logic
-- Collectible pickups and score counter
-- Enemy AI using NavMeshAgent
-- Win and lose conditions
-- Gameplay timer
-- Pause menu system
-- Restart functionality
-- Sound effects
-- Moving obstacles
-- UI feedback system
+ Player movement using Rigidbody physics
+ Camera follow system using offset logic
+ Collectible pickups and score counter
+ Enemy AI using NavMeshAgent
+ Win and lose conditions
+ Gameplay timer
+ Pause menu system
+ Restart functionality
+ Sound effects
+ Moving obstacles
+ UI feedback system
 
 Division of Responsibilities
 
@@ -64,22 +64,22 @@ Aida Aimurzayeva
 Completed tutorials 1, 2, 5, 6, and 9 of the Roll-a-Ball project.
 
 Implemented:
-- Initial project setup
-- Player movement basics
-- Camera functionality
-- Pause menu system
-- Timer system
-- UI systems
+ Initial project setup
+ Player movement basics
+ Camera functionality
+ Pause menu system
+ Timer system
+ UI systems
 
  Asset Ayanat
 Completed tutorials 3, 4, 7, and 8 of the Roll-a-Ball project.
 
 Implemented:
-- Collectible systems
-- Enemy interactions
-- Moving obstacles
-- Sound effects system
-- Gameplay expansion systems
+ Collectible systems
+ Enemy interactions
+ Moving obstacles
+ Sound effects system
+ Gameplay expansion systems
 
 Final Result
 The Unity project runs correctly, and all implemented gameplay systems and custom features function properly during play.
